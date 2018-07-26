@@ -1,1 +1,2 @@
 nuevofile.txt
+agreado de contenido desde el servidor
